@@ -1,0 +1,21 @@
+body{
+  background: url("../img/wood-background.jpg") no-repeat center center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+access-badge{
+   /*--pf-label: "PatternFly Cheerleader"; */
+}
