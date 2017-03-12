@@ -10,7 +10,6 @@ customElements.define('my-component', class extends HTMLElement {
 
   }
 
-
 });
 
 })();

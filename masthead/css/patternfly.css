@@ -4031,7 +4031,7 @@ button.close {
   background-color: #030303;
   border-top: 3px solid #39a5dc;
   color: #d1d1d1;
-  min-height: 10rem; }
+  min-height: 1rem; }
   @media (min-width: 768px) {
     .pf-masthead {
       padding-left: 15px; } }

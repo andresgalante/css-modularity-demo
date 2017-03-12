@@ -36,13 +36,13 @@ customElements.define('my-component', class extends HTMLElement {
 
         /* The :slotted(<compound-selector>) selector
            =========================================== */
-         ::slotted(p){
+         ::slotted(p) {
            /*color: pink;*/
          }
 
         /* CSS variables and mixins
            =========================================== */
-         p, ::slotted(p){
+         p, ::slotted(p) {
            /*background: var(--bg-color, red);*/
            /*@apply --pink-theme;*/
          }
