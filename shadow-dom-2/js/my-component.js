@@ -19,7 +19,7 @@ customElements.define('my-component', class extends HTMLElement {
            /*padding: 4em;*/
          }
 
-         :host(.blue) {
+         :host(.azul) {
            /*background: blue;*/
          }
 
