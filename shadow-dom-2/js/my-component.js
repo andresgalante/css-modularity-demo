@@ -29,7 +29,7 @@ customElements.define('my-component', class extends HTMLElement {
 
         /* The ::host-context(<selector>) selector
            =========================================== */
-         :host-context(.darktheme) {
+         :host-context(.modo-noite) {
            /*background: black;*/
            /*color: white;*/
          }
